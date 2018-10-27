@@ -1,10 +1,5 @@
 # enginerve.github.io
 
-## Welcome to Cleveland High School's Computer Science Awesome List! Here you can find links to sites for school, code, or anything in between!
-
-### [CHS CS Moodle](http://moodle.clevelandhighschool.org/)
-
-
 ### CHS
 
 -   [Cleveland High School Bulletin](https://www.pps.net/Page/8600)
