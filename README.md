@@ -1,8 +1,3 @@
-
-# enginerve.github.io
-
-Where I am about to replace Diigo
-
 ### CHS
 
 -   [Cleveland High School Bulletin](https://www.pps.net/Page/8600)
