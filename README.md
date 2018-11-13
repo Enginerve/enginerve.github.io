@@ -1,5 +1,5 @@
 ### Trail Running 
--   [NW Dirt Churners Northwest Trail Races](https://nwdirtchurners.com/northwest-trail-races/)
+  -   [NW Dirt Churners Northwest Trail Races](https://nwdirtchurners.com/northwest-trail-races/){:target="_blank"}
 
 ### Writing
 -   [The Up-Goer Five text editor](http://splasho.com/upgoer5/)
