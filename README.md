@@ -12,5 +12,10 @@
 ### Teaching 
 -   [Tips on Writing Learning Outcomes](https://www.library.illinois.edu/staff/infolit/learningoutcomes/){:target="_blank"}
 
+### Bicycling 
+-   [Bicycle Shipping for Cyclists](https://www.bikeflights.com/){:target="_blank"}
+
+
+
 
 
