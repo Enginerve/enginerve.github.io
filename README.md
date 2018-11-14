@@ -1,3 +1,8 @@
+## Table of Contents
+
+-   [Trail Running](#Trail Running)
+-   [Bicycling](#Bicycling)
+
 ### Trail Running 
   -   [NW Dirt Churners Northwest Trail Races](https://nwdirtchurners.com/northwest-trail-races/){:target="_blank"}
 
