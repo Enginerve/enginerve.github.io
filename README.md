@@ -14,6 +14,8 @@
 
 ### Bicycling 
 -   [Bicycle Shipping for Cyclists](https://www.bikeflights.com/){:target="_blank"}
+-   [Sheldon Brown's Home Page](https://www.sheldonbrown.com/home.html){:target="_blank"}
+
 
 
 
