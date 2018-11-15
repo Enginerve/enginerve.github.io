@@ -27,6 +27,7 @@
 
 ### Cars 
 -   [True Car](https://www.truecar.com/){:target="_blank"}
+-   [Subaru Forester Forum](https://www.subaruforester.org/){:target="_blank"}
 
 ### Motorcycles 
 -   [Motorycycle Prices on Graphs](https://motorcyclegraph.com/){:target="_blank"}
