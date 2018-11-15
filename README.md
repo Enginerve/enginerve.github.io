@@ -25,6 +25,9 @@
 ### Cars 
 -   [True Car](https://www.truecar.com/){:target="_blank"}
 
+### Motorcycles 
+-   [Motorycycle Prices on Graphs](https://motorcyclegraph.com/){:target="_blank"}
+
 ### Other 
 -   [Fake Review Analysis](https://www.fakespot.com/){:target="_blank"}
 
