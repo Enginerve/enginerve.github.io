@@ -22,6 +22,8 @@
 -   [Bicycle Shipping for Cyclists](https://www.bikeflights.com/){:target="_blank"}
 -   [Sheldon Brown's Home Page](https://www.sheldonbrown.com/home.html){:target="_blank"}
 -   [Bike Tires Direct](https://www.biketiresdirect.com/){:target="_blank"}
+-   [Bike Forums](https://www.bikeforums.net/forum.php){:target="_blank"}
+-   [Waterford Custom Bicycles](https://waterfordbikes.com/w/){:target="_blank"}
 
 ### Cars 
 -   [True Car](https://www.truecar.com/){:target="_blank"}
