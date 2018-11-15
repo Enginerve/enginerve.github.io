@@ -30,6 +30,7 @@
 
 ### Motorcycles 
 -   [Motorycycle Prices on Graphs](https://motorcyclegraph.com/){:target="_blank"}
+-   [Motorycycle Gear](http://www.motorcyclegear.com/){:target="_blank"}
 
 ### Other 
 -   [Fake Review Analysis](https://www.fakespot.com/){:target="_blank"}
