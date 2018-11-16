@@ -25,6 +25,7 @@
 -   [Bike Forums](https://www.bikeforums.net/forum.php){:target="_blank"}
 -   [Waterford Custom Bicycles](https://waterfordbikes.com/w/){:target="_blank"}
 -   [OR Randonneurs](http://www.orrandonneurs.org/){:target="_blank"}
+-   [Shift To Bikes](http://www.shift2bikes.org/){:target="_blank"}
 
 ### Cars 
 -   [True Car](https://www.truecar.com/){:target="_blank"}
