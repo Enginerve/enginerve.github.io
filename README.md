@@ -37,6 +37,14 @@
 -   [Hiking Trails - Rail to Trails Conservancy](https://www.traillink.com/trailsearch/?city=portland&state=OR){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
+### Lists 
+-   [Links to Woodworking YouTube Sites](http://woodgears.ca/links.html){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
+
+### Birds 
+-   [All About Birds | Cornell Lab of Ornithology](https://www.allaboutbirds.org/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
+
 ### Other 
 -   [Fake Review Analysis](https://www.fakespot.com/){:target="_blank"}
 
