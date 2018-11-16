@@ -6,6 +6,7 @@
 ### Running 
   -   [NW Dirt Churners Northwest Trail Races](https://nwdirtchurners.com/northwest-trail-races/){:target="_blank"}
   -   [Marathon Investigation](https://www.marathoninvestigation.com/){:target="_blank"}
+  -   [Shoekicker](https://shoekicker.com/){:target="_blank"}
 
 ### Writing
 -   [The Up-Goer Five text editor](http://splasho.com/upgoer5/){:target="_blank"}
