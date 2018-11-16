@@ -24,6 +24,7 @@
 -   [Bike Tires Direct](https://www.biketiresdirect.com/){:target="_blank"}
 -   [Bike Forums](https://www.bikeforums.net/forum.php){:target="_blank"}
 -   [Waterford Custom Bicycles](https://waterfordbikes.com/w/){:target="_blank"}
+-   [OR Randonneurs](http://www.orrandonneurs.org/){:target="_blank"}
 
 ### Cars 
 -   [True Car](https://www.truecar.com/){:target="_blank"}
