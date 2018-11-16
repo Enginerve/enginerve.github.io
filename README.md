@@ -42,6 +42,7 @@
 
 ### Maps 
 -   [Hiking Trails - Rail to Trails Conservancy](https://www.traillink.com/trailsearch/?city=portland&state=OR){:target="_blank"}
+-   [Portland Maps](https://www.portlandmaps.com/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
 ### Lists 
