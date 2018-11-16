@@ -18,6 +18,7 @@
 
 ### Teaching 
 -   [Tips on Writing Learning Outcomes](https://www.library.illinois.edu/staff/infolit/learningoutcomes/){:target="_blank"}
+-   [Nifty Assignments](http://nifty.stanford.edu/){:target="_blank"}
 
 ### Bicycling 
 -   [Bicycle Shipping for Cyclists](https://www.bikeflights.com/){:target="_blank"}
@@ -27,14 +28,17 @@
 -   [Waterford Custom Bicycles](https://waterfordbikes.com/w/){:target="_blank"}
 -   [OR Randonneurs](http://www.orrandonneurs.org/){:target="_blank"}
 -   [Shift To Bikes](http://www.shift2bikes.org/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Cars 
 -   [True Car](https://www.truecar.com/){:target="_blank"}
 -   [Subaru Forester Forum](https://www.subaruforester.org/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Motorcycles 
 -   [Motorycycle Prices on Graphs](https://motorcyclegraph.com/){:target="_blank"}
 -   [Motorycycle Gear](http://www.motorcyclegear.com/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Maps 
 -   [Hiking Trails - Rail to Trails Conservancy](https://www.traillink.com/trailsearch/?city=portland&state=OR){:target="_blank"}
@@ -52,8 +56,3 @@
 -   [Fake Review Analysis](https://www.fakespot.com/){:target="_blank"}
 -   [Velveteen Rabbit](http://digital.library.upenn.edu/women/williams/rabbit/rabbit.html){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
-
-
-
-
-
