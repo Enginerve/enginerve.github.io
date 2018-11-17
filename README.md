@@ -57,5 +57,5 @@
 -   [Fake Review Analysis](https://www.fakespot.com/){:target="_blank"}
 -   [Velveteen Rabbit](http://digital.library.upenn.edu/women/williams/rabbit/rabbit.html){:target="_blank"}
 -   [Whistle Workwear | American Workwear](http://www.americanworkwear.com/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
+-   [Little Free Library](https://littlefreelibrary.org/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
