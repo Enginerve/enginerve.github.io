@@ -7,6 +7,7 @@
   -   [NW Dirt Churners Northwest Trail Races](https://nwdirtchurners.com/northwest-trail-races/){:target="_blank"}
   -   [Marathon Investigation](https://www.marathoninvestigation.com/){:target="_blank"}
   -   [Shoekicker](https://shoekicker.com/){:target="_blank"}
+  -   [Jack Daniels' VDOT Running Calculator](https://runsmartproject.com/calculator/){:target="_blank"}
 
 ### Writing
 -   [The Up-Goer Five text editor](http://splasho.com/upgoer5/){:target="_blank"}
@@ -49,6 +50,10 @@
 -   [Links to Woodworking YouTube Sites](http://woodgears.ca/links.html){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
+### Jobs 
+-   [Coolworks: Jobs In Great Places](https://www.coolworks.com/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
+
 ### Birds 
 -   [All About Birds | Cornell Lab of Ornithology](https://www.allaboutbirds.org/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
@@ -58,4 +63,7 @@
 -   [Velveteen Rabbit](http://digital.library.upenn.edu/women/williams/rabbit/rabbit.html){:target="_blank"}
 -   [Whistle Workwear | American Workwear](http://www.americanworkwear.com/){:target="_blank"}
 -   [Little Free Library](https://littlefreelibrary.org/){:target="_blank"}
+-   [Monoprice](https://www.monoprice.com/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
