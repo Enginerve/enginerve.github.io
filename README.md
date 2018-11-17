@@ -43,7 +43,7 @@
 ### Maps 
 -   [Hiking Trails - Rail to Trails Conservancy](https://www.traillink.com/trailsearch/?city=portland&state=OR){:target="_blank"}
 -   [Portland Maps](https://www.portlandmaps.com/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
+-   [US Topo: Maps for America](https://www.usgs.gov/core-science-systems/national-geospatial-program/us-topo-maps-america?qt-science_support_page_related_con=0#qt-science_support_page_related_con){:target="_blank"}
 
 ### Lists 
 -   [Links to Woodworking YouTube Sites](http://woodgears.ca/links.html){:target="_blank"}
