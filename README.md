@@ -39,12 +39,16 @@
 ### Motorcycles 
 -   [Motorycycle Prices on Graphs](https://motorcyclegraph.com/){:target="_blank"}
 -   [Motorycycle Gear](http://www.motorcyclegear.com/){:target="_blank"}
+-   [Revzilla](https://www.revzilla.com/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
 ### Maps 
 -   [Hiking Trails - Rail to Trails Conservancy](https://www.traillink.com/trailsearch/?city=portland&state=OR){:target="_blank"}
 -   [Portland Maps](https://www.portlandmaps.com/){:target="_blank"}
 -   [US Topo: Maps for America](https://www.usgs.gov/core-science-systems/national-geospatial-program/us-topo-maps-america?qt-science_support_page_related_con=0#qt-science_support_page_related_con){:target="_blank"}
+-   [Roadtrippers](https://roadtrippers.com/){:target="_blank"}
+-   [OregonHikers](https://www.oregonhikers.org/forum/index.php){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
 ### Lists 
 -   [Links to Woodworking YouTube Sites](http://woodgears.ca/links.html){:target="_blank"}
@@ -68,6 +72,6 @@
 -   [Whistle Workwear | American Workwear](http://www.americanworkwear.com/){:target="_blank"}
 -   [Little Free Library](https://littlefreelibrary.org/){:target="_blank"}
 -   [Monoprice](https://www.monoprice.com/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
+-   [Product Key Finder](https://www.magicaljellybean.com/keyfinder/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
