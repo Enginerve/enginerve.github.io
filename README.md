@@ -50,6 +50,10 @@
 -   [Links to Woodworking YouTube Sites](http://woodgears.ca/links.html){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
+### Recipes 
+-   [Triple Ginger Cookies](https://www.bonappetit.com/recipe/triple-ginger-cookies-2){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
+
 ### Jobs 
 -   [Coolworks: Jobs In Great Places](https://www.coolworks.com/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
