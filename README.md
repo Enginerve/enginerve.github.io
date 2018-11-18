@@ -29,18 +29,15 @@
 -   [Waterford Custom Bicycles](https://waterfordbikes.com/w/){:target="_blank"}
 -   [OR Randonneurs](http://www.orrandonneurs.org/){:target="_blank"}
 -   [Shift To Bikes](http://www.shift2bikes.org/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Cars 
 -   [True Car](https://www.truecar.com/){:target="_blank"}
 -   [Subaru Forester Forum](https://www.subaruforester.org/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Motorcycles 
 -   [Motorycycle Prices on Graphs](https://motorcyclegraph.com/){:target="_blank"}
 -   [Motorycycle Gear](http://www.motorcyclegear.com/){:target="_blank"}
 -   [Revzilla](https://www.revzilla.com/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Maps 
 -   [Hiking Trails - Rail to Trails Conservancy](https://www.traillink.com/trailsearch/?city=portland&state=OR){:target="_blank"}
@@ -48,23 +45,18 @@
 -   [US Topo: Maps for America](https://www.usgs.gov/core-science-systems/national-geospatial-program/us-topo-maps-america?qt-science_support_page_related_con=0#qt-science_support_page_related_con){:target="_blank"}
 -   [Roadtrippers](https://roadtrippers.com/){:target="_blank"}
 -   [OregonHikers](https://www.oregonhikers.org/forum/index.php){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Lists 
 -   [Links to Woodworking YouTube Sites](http://woodgears.ca/links.html){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Recipes 
 -   [Triple Ginger Cookies](https://www.bonappetit.com/recipe/triple-ginger-cookies-2){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Jobs 
 -   [Coolworks: Jobs In Great Places](https://www.coolworks.com/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Birds 
 -   [All About Birds | Cornell Lab of Ornithology](https://www.allaboutbirds.org/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Other 
 -   [Fake Review Analysis](https://www.fakespot.com/){:target="_blank"}
@@ -74,4 +66,4 @@
 -   [Monoprice](https://www.monoprice.com/){:target="_blank"}
 -   [Product Key Finder](https://www.magicaljellybean.com/keyfinder/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
+
