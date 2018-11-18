@@ -56,12 +56,12 @@
 -   [Coolworks: Jobs In Great Places](https://www.coolworks.com/){:target="_blank"}
 
 ### Birds 
--   [All About Birds | Cornell Lab of Ornithology](https://www.allaboutbirds.org/){:target="_blank"}
+-   [All About Birds: Cornell Lab of Ornithology](https://www.allaboutbirds.org/){:target="_blank"}
 
 ### Other 
 -   [Fake Review Analysis](https://www.fakespot.com/){:target="_blank"}
 -   [Velveteen Rabbit](http://digital.library.upenn.edu/women/williams/rabbit/rabbit.html){:target="_blank"}
--   [Whistle Workwear | American Workwear](http://www.americanworkwear.com/){:target="_blank"}
+-   [Whistle Workwear: American Workwear](http://www.americanworkwear.com/){:target="_blank"}
 -   [Little Free Library](https://littlefreelibrary.org/){:target="_blank"}
 -   [Monoprice](https://www.monoprice.com/){:target="_blank"}
 -   [Product Key Finder](https://www.magicaljellybean.com/keyfinder/){:target="_blank"}
