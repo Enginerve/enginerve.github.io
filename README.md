@@ -29,6 +29,7 @@
 -   [Waterford Custom Bicycles](https://waterfordbikes.com/w/){:target="_blank"}
 -   [OR Randonneurs](http://www.orrandonneurs.org/){:target="_blank"}
 -   [Shift To Bikes](http://www.shift2bikes.org/){:target="_blank"}
+-   [DIY Fast Electric Bike](https://electrek.co/2018/10/19/diy-fast-electric-bike/){:target="_blank"}
 
 ### Cars 
 -   [True Car](https://www.truecar.com/){:target="_blank"}
