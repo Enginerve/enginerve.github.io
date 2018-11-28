@@ -66,5 +66,6 @@
 -   [Little Free Library](https://littlefreelibrary.org/){:target="_blank"}
 -   [Monoprice](https://www.monoprice.com/){:target="_blank"}
 -   [Product Key Finder](https://www.magicaljellybean.com/keyfinder/){:target="_blank"}
+-   [Niche](https://www.niche.com/?ref=places-to-live){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
