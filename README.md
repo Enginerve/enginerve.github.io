@@ -56,6 +56,13 @@
 ### Jobs 
 -   [Coolworks: Jobs In Great Places](https://www.coolworks.com/){:target="_blank"}
 
+### Hiking 
+-   [Pacific Northwest Trail Association](https://www.pnt.org/){:target="_blank"}
+-   [Pacific Crest Trail Association](https://www.pcta.org/){:target="_blank"}
+-   [Kettles Recreation Area](https://www.wta.org/go-hiking/hikes/the-kettles-trail-system-of-whidbey-island){:target="_blank"}
+-   [Padilla Bay Shore Trail](https://www.wta.org/go-hiking/hikes/padilla-bay){:target="_blank"}
+-   [Anacortes Community Forest Lands](https://www.cityofanacortes.org/Facilities/Facility/Details/Anacortes-Community-Forest-Lands-7){:target="_blank"}
+
 ### Birds 
 -   [All About Birds: Cornell Lab of Ornithology](https://www.allaboutbirds.org/){:target="_blank"}
 
