@@ -49,6 +49,7 @@
 
 ### Lists 
 -   [Links to Woodworking YouTube Sites](http://woodgears.ca/links.html){:target="_blank"}
+-   [Google Home/Assistant Commands](https://www.reddit.com/r/googlehome/wiki/commands){:target="_blank"}
 
 ### Recipes 
 -   [Triple Ginger Cookies](https://www.bonappetit.com/recipe/triple-ginger-cookies-2){:target="_blank"}
