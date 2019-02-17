@@ -31,6 +31,7 @@
 -   [Shift To Bikes](http://www.shift2bikes.org/){:target="_blank"}
 -   [DIY Fast Electric Bike](https://electrek.co/2018/10/19/diy-fast-electric-bike/){:target="_blank"}
 -   [GMBN Global Mountain Bike Network](https://www.youtube.com/user/globalmtb){:target="_blank"}
+-   [Cycling About](https://www.cyclingabout.com/){:target="_blank"}
 
 ### Cars 
 -   [True Car](https://www.truecar.com/){:target="_blank"}
