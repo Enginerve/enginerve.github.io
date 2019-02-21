@@ -12,6 +12,7 @@
 ### Writing
 -   [The Up-Goer Five text editor](http://splasho.com/upgoer5/){:target="_blank"}
 -   [Simple Writer](https://xkcd.com/simplewriter/){:target="_blank"}
+-   [Ludwig - Find Your Sentence](https://ludwig.guru/){:target="_blank"}
 
 ### Python 
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp){:target="_blank"}
