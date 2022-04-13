@@ -85,6 +85,6 @@
 
 ### Tidbits
 -   [IceBerger](https://joshdata.me/iceberger.html/#){:target="_blank"}
--   [RiverRunner](https://river-runner.samlearner.com/#){:target="_blank"}
+-   [OneZoom Tree of Life](https://www.onezoom.org/#){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 
