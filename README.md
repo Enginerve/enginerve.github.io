@@ -79,8 +79,12 @@
 -   [Product Key Finder](https://www.magicaljellybean.com/keyfinder/){:target="_blank"}
 -   [Niche](https://www.niche.com/?ref=places-to-live){:target="_blank"}
 -   [Canned Emails](http://www.cannedemails.com/#){:target="_blank"}
--   [Localhost](http://localhost/){:target="_blank"}
 
 ### Programming
 -   [DEV](https://dev.to/?signin=true){:target="_blank"}
+
+### Tidbits
+-   [IceBerger](https://joshdata.me/iceberger.html/#){:target="_blank"}
+-   [RiverRunner](https://river-runner.samlearner.com/#){:target="_blank"}
+-   [Localhost](http://localhost/){:target="_blank"}
 
